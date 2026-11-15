@@ -1,0 +1,435 @@
+{
+ "v1": [
+  {
+   "start": 0.0,
+   "end": 2.96,
+   "text": " Oi korang, nak masuk FYP? Jaga 3 benda.",
+   "words": [
+    [
+     0.0,
+     0.62,
+     " Oi"
+    ],
+    [
+     0.62,
+     1.1,
+     " korang,"
+    ],
+    [
+     1.22,
+     1.28,
+     " nak"
+    ],
+    [
+     1.28,
+     1.52,
+     " masuk"
+    ],
+    [
+     1.52,
+     2.08,
+     " FYP?"
+    ],
+    [
+     2.24,
+     2.4,
+     " Jaga"
+    ],
+    [
+     2.4,
+     2.56,
+     " 3"
+    ],
+    [
+     2.56,
+     2.96,
+     " benda."
+    ]
+   ]
+  },
+  {
+   "start": 3.22,
+   "end": 5.84,
+   "text": " Hook kena menarik. Retention jangan bagi bosan.",
+   "words": [
+    [
+     3.22,
+     3.34,
+     " Hook"
+    ],
+    [
+     3.34,
+     3.58,
+     " kena"
+    ],
+    [
+     3.58,
+     4.14,
+     " menarik."
+    ],
+    [
+     4.4,
+     4.82,
+     " Retention"
+    ],
+    [
+     4.82,
+     5.12,
+     " jangan"
+    ],
+    [
+     5.12,
+     5.4,
+     " bagi"
+    ],
+    [
+     5.4,
+     5.84,
+     " bosan."
+    ]
+   ]
+  },
+  {
+   "start": 6.22,
+   "end": 9.64,
+   "text": " Watch time kena bagus. Jangan video korang macam ceramah panjang.",
+   "words": [
+    [
+     6.22,
+     6.4,
+     " Watch"
+    ],
+    [
+     6.4,
+     6.58,
+     " time"
+    ],
+    [
+     6.58,
+     6.82,
+     " kena"
+    ],
+    [
+     6.82,
+     7.18,
+     " bagus."
+    ],
+    [
+     7.54,
+     7.78,
+     " Jangan"
+    ],
+    [
+     7.78,
+     8.08,
+     " video"
+    ],
+    [
+     8.08,
+     8.4,
+     " korang"
+    ],
+    [
+     8.4,
+     8.66,
+     " macam"
+    ],
+    [
+     8.66,
+     9.1,
+     " ceramah"
+    ],
+    [
+     9.1,
+     9.64,
+     " panjang."
+    ]
+   ]
+  }
+ ],
+ "v2": [
+  {
+   "start": 0.0,
+   "end": 3.04,
+   "text": " Contohnya, mula video dengan soalan mengejutkan.",
+   "words": [
+    [
+     0.0,
+     1.04,
+     " Contohnya,"
+    ],
+    [
+     1.06,
+     1.36,
+     " mula"
+    ],
+    [
+     1.36,
+     1.7,
+     " video"
+    ],
+    [
+     1.7,
+     1.94,
+     " dengan"
+    ],
+    [
+     1.94,
+     2.26,
+     " soalan"
+    ],
+    [
+     2.26,
+     3.04,
+     " mengejutkan."
+    ]
+   ]
+  },
+  {
+   "start": 3.22,
+   "end": 5.58,
+   "text": " Jangan meleret, terus bagi isi menarik.",
+   "words": [
+    [
+     3.22,
+     3.46,
+     " Jangan"
+    ],
+    [
+     3.46,
+     3.92,
+     " meleret,"
+    ],
+    [
+     4.12,
+     4.34,
+     " terus"
+    ],
+    [
+     4.34,
+     4.66,
+     " bagi"
+    ],
+    [
+     4.66,
+     4.9,
+     " isi"
+    ],
+    [
+     4.9,
+     5.58,
+     " menarik."
+    ]
+   ]
+  },
+  {
+   "start": 5.88,
+   "end": 8.64,
+   "text": " Akhir sekali, beri sebab orang nak tengok sampai habis.",
+   "words": [
+    [
+     5.88,
+     6.14,
+     " Akhir"
+    ],
+    [
+     6.14,
+     6.54,
+     " sekali,"
+    ],
+    [
+     6.88,
+     7.08,
+     " beri"
+    ],
+    [
+     7.08,
+     7.34,
+     " sebab"
+    ],
+    [
+     7.34,
+     7.52,
+     " orang"
+    ],
+    [
+     7.52,
+     7.68,
+     " nak"
+    ],
+    [
+     7.68,
+     7.94,
+     " tengok"
+    ],
+    [
+     7.94,
+     8.16,
+     " sampai"
+    ],
+    [
+     8.16,
+     8.64,
+     " habis."
+    ]
+   ]
+  },
+  {
+   "start": 9.0,
+   "end": 9.36,
+   "text": " Paham?",
+   "words": [
+    [
+     9.0,
+     9.36,
+     " Paham?"
+    ]
+   ]
+  }
+ ],
+ "v3": [
+  {
+   "start": 0.0,
+   "end": 3.06,
+   "text": " Kalau korang suka tips atuk, tekan like dulu.",
+   "words": [
+    [
+     0.0,
+     0.6,
+     " Kalau"
+    ],
+    [
+     0.6,
+     0.9,
+     " korang"
+    ],
+    [
+     0.9,
+     1.24,
+     " suka"
+    ],
+    [
+     1.24,
+     1.48,
+     " tips"
+    ],
+    [
+     1.48,
+     1.96,
+     " atuk,"
+    ],
+    [
+     2.18,
+     2.42,
+     " tekan"
+    ],
+    [
+     2.42,
+     2.66,
+     " like"
+    ],
+    [
+     2.66,
+     3.06,
+     " dulu."
+    ]
+   ]
+  },
+  {
+   "start": 3.68,
+   "end": 5.82,
+   "text": " Nak belajar buat video AI macam atuk?",
+   "words": [
+    [
+     3.68,
+     3.78,
+     " Nak"
+    ],
+    [
+     3.78,
+     4.2,
+     " belajar"
+    ],
+    [
+     4.2,
+     4.38,
+     " buat"
+    ],
+    [
+     4.38,
+     4.74,
+     " video"
+    ],
+    [
+     4.74,
+     5.04,
+     " AI"
+    ],
+    [
+     5.04,
+     5.32,
+     " macam"
+    ],
+    [
+     5.32,
+     5.82,
+     " atuk?"
+    ]
+   ]
+  },
+  {
+   "start": 6.04,
+   "end": 7.32,
+   "text": " Dari basic sampai pro.",
+   "words": [
+    [
+     6.04,
+     6.22,
+     " Dari"
+    ],
+    [
+     6.22,
+     6.6,
+     " basic"
+    ],
+    [
+     6.6,
+     6.94,
+     " sampai"
+    ],
+    [
+     6.94,
+     7.32,
+     " pro."
+    ]
+   ]
+  },
+  {
+   "start": 7.78,
+   "end": 8.82,
+   "text": " Klik link dekat bio.",
+   "words": [
+    [
+     7.78,
+     8.02,
+     " Klik"
+    ],
+    [
+     8.02,
+     8.26,
+     " link"
+    ],
+    [
+     8.26,
+     8.56,
+     " dekat"
+    ],
+    [
+     8.56,
+     8.82,
+     " bio."
+    ]
+   ]
+  }
+ ]
+}
